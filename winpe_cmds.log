@@ -1,0 +1,3034 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2023.11.06 14:27:36 =~=~=~=~=~=~=~=~=~=~=~=
+Using username "bios".
+bios@172.31.255.10's password: 
+Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 6.2.0-33-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+Expanded Security Maintenance for Applications is not enabled.
+
+35 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+*** System restart required ***
+Last login: Mon Nov  6 15:06:48 2023 from 172.31.255.1
+bios@bios-zbook:~$ ipmitool -I lanplus  -U admin -P falcon@123 -H 172.31.255.5 sol activate
+[SOL Session operational.  Use ~? for help]
+
+SAC>
+SAC>id
+           Computer Name: not yet initialized
+           Computer GUID: 72825450-8da8-11ed-03f1-6c1981423f6a
+  Processor Architecture: arm64
+          Version Number: 10.0
+            Build Number: 25398
+                 Product: Windows Preinstallation Environment
+    Applied Service Pack: None
+  Time since last reboot: 0:30:45
+SAC>d
+05:13:34.110 : KRNL: Loading \Driver\Wdf01000
+05:13:34.110 : KRNL: Load succeeded.
+05:13:34.110 : KRNL: Loading \Driver\PRM
+05:13:34.110 : KRNL: Load succeeded.
+05:13:34.125 : KRNL: Loading \Driver\acpiex
+05:13:34.125 : KRNL: Load succeeded.
+05:13:34.125 : KRNL: Loading \Driver\CNG
+05:13:34.125 : KRNL: Load succeeded.
+05:13:34.297 : KRNL: Loading \Driver\WindowsTrustedRT
+05:13:34.297 : KRNL: Load succeeded.
+05:13:34.297 : KRNL: Loading \Driver\WindowsTrustedRTProxy
+05:13:34.313 : KRNL: Load succeeded.
+05:13:34.313 : KRNL: Loading \Driver\ACPI
+05:13:34.313 : KRNL: Load succeeded.
+05:13:44.422 : KRNL: Loading \Driver\pci
+05:13:44.438 : KRNL: Load succeeded.
+05:13:45.672 : KRNL: Loading \Driver\TPM
+05:13:45.672 : KRNL: Load succeeded.
+05:13:45.735 : KRNL: Loading \FileSystem\RAW
+05:13:45.750 : KRNL: Load succeeded.
+05:13:45.829 : KRNL: Loading \Driver\pcw
+----Press <Enter> for more----
+05:13:45.829 : KRNL: Load succeeded.
+05:13:45.875 : KRNL: Loading \Driver\sacdrv
+05:13:46.094 : KRNL: Load succeeded.
+05:13:46.094 : KRNL: Loading \Driver\vdrvroot
+05:13:46.094 : KRNL: Load succeeded.
+05:13:46.094 : KRNL: Loading \Driver\Ucx01000
+05:13:46.094 : KRNL: Load succeeded.
+05:13:46.094 : KRNL: Loading \Driver\pdc
+05:13:46.094 : KRNL: Load succeeded.
+05:13:46.094 : KRNL: Loading \Driver\partmgr
+05:13:46.094 : KRNL: Load succeeded.
+05:13:46.094 : KRNL: Loading \Driver\sdbus
+05:13:46.094 : KRNL: Load succeeded.
+05:13:46.110 : KRNL: Loading \Driver\vmbus
+05:13:46.110 : KRNL: Load succeeded.
+05:13:46.110 : KRNL: Loading \Driver\spaceport
+05:13:46.110 : KRNL: Load succeeded.
+05:13:46.110 : KRNL: Loading \Driver\volmgr
+05:13:46.110 : KRNL: Load succeeded.
+05:13:46.110 : KRNL: Loading \Driver\volmgrx
+05:13:46.110 : KRNL: Load succeeded.
+----Press <Enter> for more----
+05:13:46.110 : KRNL: Loading \Driver\vpci
+05:13:46.110 : KRNL: Load succeeded.
+05:13:46.110 : KRNL: Loading \Driver\pciide
+05:13:46.110 : KRNL: Load succeeded.
+05:13:46.110 : KRNL: Loading \Driver\intelide
+05:13:46.110 : KRNL: Load succeeded.
+05:13:46.110 : KRNL: Loading \Driver\UrsCx01000
+05:13:46.110 : KRNL: Load succeeded.
+05:13:46.110 : KRNL: Loading \Driver\mountmgr
+05:13:46.110 : KRNL: Load succeeded.
+05:13:46.110 : KRNL: Loading \Driver\atapi
+05:13:46.110 : KRNL: Load succeeded.
+05:13:46.110 : KRNL: Loading \Driver\storahci
+05:13:46.110 : KRNL: Load succeeded.
+05:13:46.110 : KRNL: Loading \Driver\stornvme
+05:13:46.110 : KRNL: Load succeeded.
+05:13:46.659 : KRNL: Loading \Driver\nvdimm
+05:13:46.659 : KRNL: Load succeeded.
+05:13:46.674 : KRNL: Loading \Driver\cdrom
+05:13:46.674 : KRNL: Load succeeded.
+05:13:46.690 : KRNL: Loading \FileSystem\FltMgr
+----Press <Enter> for more----
+05:13:46.690 : KRNL: Load succeeded.
+05:13:46.706 : KRNL: Loading \FileSystem\FileInfo
+05:13:46.706 : KRNL: Load succeeded.
+05:13:46.721 : KRNL: Loading \FileSystem\Wof
+05:13:46.721 : KRNL: Load succeeded.
+05:13:46.737 : KRNL: Loading \FileSystem\WimFsf
+05:13:46.737 : KRNL: Load succeeded.
+05:13:46.753 : KRNL: Loading \FileSystem\FBWF
+05:13:46.753 : KRNL: Load succeeded.
+05:13:46.768 : KRNL: Loading \Driver\CLFS
+05:13:46.768 : KRNL: Load succeeded.
+05:13:46.784 : KRNL: Loading \FileSystem\Ntfs
+05:13:46.815 : KRNL: Load succeeded.
+05:13:46.831 : KRNL: Loading \FileSystem\ReFSv1
+05:13:46.846 : KRNL: Load succeeded.
+05:13:46.846 : KRNL: Loading \FileSystem\ReFS
+05:13:46.878 : KRNL: Load succeeded.
+05:13:46.878 : KRNL: Loading \Driver\UrsChipidea
+05:13:46.878 : KRNL: Load succeeded.
+05:13:46.878 : KRNL: Loading \Driver\KSecDD
+05:13:46.878 : KRNL: Load succeeded.
+----Press <Enter> for more----
+05:13:46.893 : KRNL: Loading \Driver\storvsc
+05:13:46.893 : KRNL: Load succeeded.
+05:13:46.893 : KRNL: Loading \Driver\usbccgp
+05:13:46.893 : KRNL: Load succeeded.
+05:13:46.893 : KRNL: Loading \Driver\usbhub
+05:13:46.893 : KRNL: Load succeeded.
+05:13:46.893 : KRNL: Loading \Driver\USBHUB3
+05:13:46.893 : KRNL: Load succeeded.
+05:13:46.893 : KRNL: Loading \Driver\usbehci
+05:13:46.893 : KRNL: Load succeeded.
+05:13:46.893 : KRNL: Loading \FileSystem\Fs_Rec
+05:13:46.893 : KRNL: Load succeeded.
+05:13:46.909 : KRNL: Loading \Driver\NDIS
+05:13:46.971 : KRNL: Load succeeded.
+05:13:46.987 : KRNL: Loading \Driver\KSecPkg
+05:13:46.987 : KRNL: Load succeeded.
+05:13:47.003 : KRNL: Loading \Driver\Tcpip
+05:13:47.268 : KRNL: Load succeeded.
+05:13:47.284 : KRNL: Loading \Driver\fvevol
+05:13:47.299 : KRNL: Load succeeded.
+05:13:47.315 : KRNL: Loading \Driver\volume
+----Press <Enter> for more----
+05:13:47.315 : KRNL: Load succeeded.
+05:13:47.331 : KRNL: Loading \Driver\volsnap
+05:13:47.331 : KRNL: Load succeeded.
+05:13:47.346 : KRNL: Loading \Driver\USBXHCI
+05:13:47.346 : KRNL: Load succeeded.
+05:13:47.925 : KRNL: Loading \Driver\USBSTOR
+05:13:47.925 : KRNL: Load succeeded.
+05:13:47.987 : KRNL: Loading \Driver\UASPStor
+05:13:47.987 : KRNL: Load succeeded.
+05:13:48.003 : KRNL: Loading \Driver\storufs
+05:13:48.003 : KRNL: Load succeeded.
+05:13:48.003 : KRNL: Loading \Driver\sdstor
+05:13:48.003 : KRNL: Load succeeded.
+05:13:48.019 : KRNL: Loading \Driver\scmbus
+05:13:48.019 : KRNL: Load succeeded.
+05:13:48.042 : KRNL: Loading \Driver\Ramdisk
+05:13:48.050 : KRNL: Load succeeded.
+05:13:48.081 : KRNL: Loading \Driver\pmem
+05:13:48.081 : KRNL: Load succeeded.
+05:13:48.081 : KRNL: Loading \Driver\nvmedisk
+05:13:48.081 : KRNL: Load succeeded.
+----Press <Enter> for more----
+05:13:48.081 : KRNL: Loading \FileSystem\Mup
+05:13:48.081 : KRNL: Load succeeded.
+05:13:48.081 : KRNL: Loading \Driver\GenPass
+05:13:48.081 : KRNL: Load succeeded.
+05:13:48.081 : KRNL: Loading \Driver\disk
+05:13:48.081 : KRNL: Load succeeded.
+05:13:53.476 : KRNL: Loading Null.SYS
+05:13:53.710 : KRNL: Load succeeded.
+05:13:53.710 : KRNL: Loading dxgkrnl.sys
+05:13:53.741 : KRNL: Load succeeded.
+05:13:53.741 : KRNL: Loading BasicDisplay.sys
+05:13:53.741 : KRNL: Loading dxgkrnl.sys
+05:13:53.741 : KRNL: Load succeeded.
+05:13:53.741 : KRNL: Load succeeded.
+05:13:53.741 : KRNL: Loading BasicRender.sys
+05:13:53.741 : KRNL: Loading dxgkrnl.sys
+05:13:53.741 : KRNL: Load succeeded.
+05:13:53.788 : KRNL: Loading umbus.sys
+05:13:53.819 : KRNL: Load succeeded.
+05:13:53.819 : KRNL: Loading NdisVirtualBus.sys
+05:13:53.851 : KRNL: Load succeeded.
+----Press <Enter> for more----
+05:13:53.851 : KRNL: Loading swenum.sys
+05:13:53.991 : KRNL: Load succeeded.
+05:13:54.101 : KRNL: Loading hidusb.sys
+05:13:54.226 : KRNL: Load succeeded.
+05:13:54.226 : KRNL: Loading usbser.sys
+05:13:54.273 : KRNL: Load succeeded.
+05:13:54.445 : KRNL: Loading mouhid.sys
+05:13:54.460 : KRNL: Load succeeded.
+05:13:54.460 : KRNL: Loading mouclass.sys
+05:13:54.507 : KRNL: Load succeeded.
+05:13:54.663 : KRNL: Loading kbdhid.sys
+05:13:54.695 : KRNL: Load succeeded.
+05:13:54.695 : KRNL: Loading kbdclass.sys
+05:13:54.741 : KRNL: Load succeeded.
+05:13:54.788 : KRNL: Loading AcpiDev.sys
+05:13:54.820 : KRNL: Load succeeded.
+05:13:54.835 : KRNL: Loading errdev.sys
+05:13:54.866 : KRNL: Load succeeded.
+05:13:54.882 : KRNL: Loading fxppm.sys
+05:13:54.945 : KRNL: Load succeeded.
+05:13:56.085 : KRNL: Loading UEFI.sys
+----Press <Enter> for more----
+05:13:56.132 : KRNL: Load succeeded.
+05:13:58.679 : KRNL: Load succeeded.
+05:13:58.679 : KRNL: Loading Npfs.SYS
+05:13:58.679 : KRNL: Load succeeded.
+05:13:58.679 : KRNL: Loading Msfs.SYS
+05:13:58.679 : KRNL: Load succeeded.
+05:13:58.679 : KRNL: Loading tdx.sys
+05:13:58.788 : KRNL: Load succeeded.
+05:13:58.788 : KRNL: Loading netbt.sys
+05:13:58.788 : KRNL: Load succeeded.
+05:13:58.788 : KRNL: Loading afd.sys
+05:13:58.788 : KRNL: Load succeeded.
+05:13:58.788 : KRNL: Loading netbios.sys
+05:13:58.788 : KRNL: Load succeeded.
+05:13:58.788 : KRNL: Loading rdbss.sys
+05:13:58.804 : KRNL: Load succeeded.
+05:13:58.804 : KRNL: Loading nsiproxy.sys
+05:13:58.835 : KRNL: Load succeeded.
+05:13:58.835 : KRNL: Loading npsvctrig.sys
+05:13:58.851 : KRNL: Load succeeded.
+05:13:58.851 : KRNL: Loading mssmbios.sys
+----Press <Enter> for more----
+05:13:58.898 : KRNL: Load succeeded.
+05:13:58.898 : KRNL: Loading dfsc.sys
+05:13:58.960 : KRNL: Load succeeded.
+05:14:16.038 : KRNL: Loading fastfat.SYS
+05:14:16.195 : KRNL: Load succeeded.
+05:14:21.429 : KRNL: Loading dxgkrnl.sys
+05:14:21.429 : KRNL: Load succeeded.
+05:14:22.445 : KRNL: Loading dxgkrnl.sys
+05:14:22.445 : KRNL: Load succeeded.
+05:14:24.275 : KRNL: Loading hidusb.sys
+05:14:24.290 : KRNL: Load succeeded.
+05:14:24.384 : KRNL: Loading mouhid.sys
+05:14:24.400 : KRNL: Load succeeded.
+05:14:29.325 : KRNL: Loading kbdhid.sys
+05:14:29.341 : KRNL: Load succeeded.
+05:14:39.544 : KRNL: Loading condrv.sys
+05:14:39.591 : KRNL: Load succeeded.
+05:15:49.260 : KRNL: Loading udfs.sys
+05:15:49.369 : KRNL: Load succeeded.
+05:15:55.932 : KRNL: Loading mpsdrv.sys
+05:15:55.963 : KRNL: Load succeeded.
+----Press <Enter> for more----
+05:15:56.885 : KRNL: Loading bowser.sys
+05:16:00.619 : KRNL: Load succeeded.
+05:16:00.635 : KRNL: Loading msquic.sys
+05:16:00.775 : KRNL: Load succeeded.
+05:16:00.775 : KRNL: Loading mrxsmb.sys
+05:16:00.963 : KRNL: Load succeeded.
+05:16:00.963 : KRNL: Loading mrxsmb20.sys
+05:16:01.072 : KRNL: Load succeeded.
+05:16:30.604 : KRNL: Loading kdnic.sys
+05:16:30.682 : KRNL: Load succeeded.
+SAC>i
+SAC is retrieving IP Addresses...
+There are no IP Addresses available.
+SAC>s
+Date: 06/11/2023  Time (GMT): 05:43:51:0407
+SAC>cmd
+The Command Prompt session was successfully launched.
+SAC>
+EVENT:   A new channel has been created.  Use "ch -?" for channel help.
+Channel: Cmd0001
+SAC>ch
+Channel List
+
+(Use "ch -?" for information on using channels)
+
+# Status  Channel Name
+0 (AV)    SAC
+1 (AV)    Cmd0001
+SAC><?xml version="1.0"?>
+<channel-switch>
+<name>Cmd0001</name>
+<description>Command Prompt</description>
+<type>VT-UTF8</type>
+<guid>ceb3dd97-0816-11ee-b4b9-8feb969fca13</guid>
+<application-type>63d02271-8aa4-11d5-bccf-00b0d014a2d0</application-type>
+</channel-switch>
+Name:                  Cmd0001
+Description:           Command
+Type:                  VT-UTF8
+Channel GUID:          ceb3dd97-0816-11ee-b4b9-8feb969fca13
+Application Type GUID: 63d02271-8aa4-11d5-bccf-00b0d014a2d0
+
+Press <esc><tab> for next channel.
+Press <esc><tab>0 to return to the SAC channel.
+Use any other key to view this channel.
+
+Microsoft Windows [Version 10.0.25398.1]
+(c) Microsoft Corporation. All rights reserved.
+
+X:\Windows\System32>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+verMicrosoft Windows [Version 10.0.25398.1]X:\Windows\System32>pnputil/enum-devices
+Microsoft PnP UtilityInstance ID:                USBSTOR\CdRom&Ven_AMI&Prod_Virtual_CDROM3&Rev_1.00\AAAABBBBCCCC1&3
+Device Description:         AMI Virtual CDROM3 USB Device
+Class Name:                 CDROM
+Class GUID:                 {4d36e965-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard CD-ROM drives)
+Status:                     Started
+Driver Name:                cdrom.infInstance ID:                PCI\VEN_144D&DEV_A80A&SUBSYS_A812144D&REV_00\4&2e4364e2&0&0000
+Device Description:         Standard NVM Express Controller
+Class Name:                 SCSIAdapter
+Class GUID:                 {4d36e97b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Standard NVM Express Controller
+Status:                     Started
+Driver Name:                stornvme.infInstance ID:                STORAGE\Volume\{ceb3dd55-0816-11ee-b4b9-806e6f6e6963}#0000000020100000
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.infInstance ID:                USB\VID_046B&PID_FF10\7&13bf103e&0&6
+Device Description:         USB Input Device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.infInstance ID:                PCI\VEN_10DE&DEV_22B2&SUBSYS_00000000&REV_00\3&71811bb&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                USBSTOR\Disk&Ven_ASolid&Prod_USB&Rev_0000\B0000524&0
+Device Description:         ASolid USB USB Device
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                PCI\VEN_144D&DEV_A808&SUBSYS_A801144D&REV_00\4&6e05e6d&0&0000
+Device Description:         Standard NVM Express Controller
+Class Name:                 SCSIAdapter
+Class GUID:                 {4d36e97b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Standard NVM Express Controller
+Status:                     Started
+Driver Name:                stornvme.inf
+
+Instance ID:                ACPI\ACPI000D\1
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ACPI000D\2
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ACPI000D\3
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ACPI000D\b
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:0xC0000490
+
+Instance ID:                ACPI\ACPI000D\c
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ACPI000D\d
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                PCI\VEN_10DE&DEV_22B8&SUBSYS_00000000&REV_00\3&2ff92b1d&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:{4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0C02\3&2de59b47&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\PNP0C02\BPMP_IPC_Socket_0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\PNP0C02\BPMP_IPC_Socket_1
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ROOT\volmgr\0000
+Device Description:         Volume Manager
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:volmgr.inf
+
+Instance ID:                USBSTOR\CdRom&Ven_AMI&Prod_Virtual_CDROM2&Rev_1.00\AAAABBBBCCCC1&2
+Device Description:         AMI Virtual CDROM2 USB Device
+Class Name:                 CDROM
+Class GUID:                 {4d36e965-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard CD-ROM drives)
+Status:                     Started
+Driver Name:                cdrom.inf
+
+Instance ID:                ACPI\PNP0C02\3&3aa59a3&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\PNP0C02\3&22b7bebc&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ROOT\BasicDisplay\0000
+Device Description:         Microsoft Basic Display Driver
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard display types)
+Status:                     Started
+Driver Name:                basicdisplay.inf
+
+Instance ID:                USB\VID_24A9&PID_205A\B0000524
+Device Description:         USB Mass Storage Device
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Compatible USB storage device
+Status:                     Started
+Driver Name:                usbstor.inf
+
+Instance ID:                ACPI\NVDA0301\3
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\10
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\11
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\12
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:(Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\13
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\15
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\16
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\17
+Device Description:         ArmV9 Central Processor
+Class Name:Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\18
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\19
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\1a
+Device Description:         ArmV9 Central Processor
+Class Name:Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\1c
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\1d
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\1e
+Device Description:         ArmV9 Central Processor
+Class Name:Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\1f
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\20
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\21
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\22
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\23
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\24
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\25
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\26
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\27
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\28
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\29
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\2a
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\2b
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\2c
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\2d
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\2e
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\2f
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\30
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\31
+Device Description:ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\32
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\33
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\34
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\35
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\36
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\37
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\38
+Device Description:ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\3a
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\3b
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\3c
+Device Description:ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\3d
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\3e
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\3f
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\40
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\41
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\42
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\43
+Device Description:ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\44
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\46
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\48
+Device Description:ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\49
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:(Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\4a
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\4b
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\4c
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\4d
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\4e
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\4f
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\50
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\51
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\52
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\54
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\56
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\58
+Device Description:ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\5a
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\5c
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\5d
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\5e
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\5f
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\60
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\62
+Device Description:         ArmV9 Central Processor
+Class Name:Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\64
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\65
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\66
+Device Description:         ArmV9 Central Processor
+Class Name:Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\67
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\68
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\69
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\6a
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\6b
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\6c
+Device Description:ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\6d
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\6e
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\70
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\71
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\72
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\73
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\74
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\75
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\76
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\77
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\78
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\79
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\7a
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\7b
+Device Description:         ArmV9 Central Processor
+Class Name:Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\7c
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\7d
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\7e
+Device Description:         ArmV9 Central Processor
+Class Name:Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\7f
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\80
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\81
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\82
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\83
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\84
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\85
+Device Description:         ArmV9 Central Processor
+Class Name:Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\86
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\87
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\88
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\89
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\8a
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\8b
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\8c
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\8e
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\8f
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\90
+Device Description:         ArmV9 Central Processor
+Class Name:Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\91
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\92
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\93
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\94
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\95
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\96
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\97
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\98
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\9a
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\9c
+Device Description:ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\9d
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\9e
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\9f
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\a0
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\a1
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\a2
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\a3
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\a4
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\a5
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVDA1180\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA1180\1
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA1180\2
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA1180\3
+Device Description:Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\PNP0C02\3&ffe0e17&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ00
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ01
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ02
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ03
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ04
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ05
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ06
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ07
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ08
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ09
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ0A
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ0B
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:{4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ0C
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ0D
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ0E
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ0F
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ10
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ11
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ12
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ13
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ14
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ15
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ16
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ThermalZone\TZ17
+Device Description:         ACPI Thermal Zone
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                PCI\VEN_1A03&DEV_2000&SUBSYS_20001A03&REV_52\5&4a488a0&0&000000
+Device Description:         Video Controller (VGA Compatible)
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                PCI\VEN_10DE&DEV_22B2&SUBSYS_00000000&REV_00\3&2c8b7305&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                USB\VID_046B&PID_FF10\0123456789
+Device Description:         USB Input Device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                ACPI\ACPI0010\0
+Device Description:         ACPI Processor Container Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ACPI0010\1
+Device Description:         ACPI Processor Container Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ACPI0013\0
+Device Description:         ACPI Devices driver
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                acpidev.inf
+
+Instance ID:                ACPI\ACPI0013\1
+Device Description:         ACPI Devices driver
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                acpidev.inf
+
+Instance ID:                HID\VID_046B&PID_FF10\8&2a0ac6de&0&0000
+Device Description:         HID Keyboard Device
+Class Name:                 Keyboard
+Class GUID:                 {4d36e96b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard keyboards)
+Status:                     Started
+Driver Name:                keyboard.inf
+
+Instance ID:                USB\VID_05E3&PID_0610\6&4c16eee&0&7
+Device Description:         Generic USB Hub
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standard USB HUBs)
+Status:                     Started
+Driver Name:                usbhub3.inf
+
+Instance ID:                USBSTOR\CdRom&Ven_AMI&Prod_Virtual_CDROM1&Rev_1.00\AAAABBBBCCCC1&1
+Device Description:         AMI Virtual CDROM1 USB Device
+Class Name:                 CDROM
+Class GUID:                 {4d36e965-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard CD-ROM drives)
+Status:                     Started
+Driver Name:                cdrom.inf
+
+Instance ID:                ACPI\NVDA1180\10
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA1180\11
+Device Description:         Unknown
+Class Name:Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA1180\12
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA1180\13
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                HID\VID_046B&PID_FF10\8&381b8d11&0&0000
+Device Description:         HID-compliant mouse
+Class Name:                 Mouse
+Class GUID:                 {4d36e96f-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                msmouse.inf
+
+Instance ID:                ACPI\PNP0C02\3&1d3f7a78&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ROOT\vdrvroot\0000
+Device Description:         Microsoft Virtual Drive Enumerator
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                vdrvroot.inf
+
+Instance ID:                ACPI\PNP0C02\3&36cb97a3&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ROOT\spaceport\0000
+Device Description:         Microsoft Storage Spaces Controller
+Class Name:                 SCSIAdapter
+Class GUID:                 {4d36e97b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                spaceport.inf
+
+Instance ID:                ROOT\KDNIC\0000
+Device Description:         Microsoft Kernel Debug Network Adapter
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                kdnic.inf
+
+Instance ID:                USBSTOR\CdRom&Ven_AMI&Prod_Virtual_CDROM0&Rev_1.00\AAAABBBBCCCC1&0
+Device Description:         AMI Virtual CDROM0 USB Device
+Class Name:                 CDROM
+Class GUID:                 {4d36e965-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard CD-ROM drives)
+Status:                     Started
+Driver Name:                cdrom.inf
+
+Instance ID:                STORAGE\Volume\_??_USBSTOR#Disk&Ven_AMI&Prod_Virtual_HDisk3&Rev_1.00#AAAABBBBCCCC3&3#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}      
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:{71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                PCI\VEN_10DE&DEV_22B2&SUBSYS_00000000&REV_00\3&1b2beaa2&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                STORAGE\Volume\_??_USBSTOR#Disk&Ven_AMI&Prod_Virtual_HDisk2&Rev_1.00#AAAABBBBCCCC3&2#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                ROOT\Ramdisk\0000
+Device Description:         Windows RAM Disk Controller
+Class Name:                 Ramdisk
+Class GUID:                 {9d6d66a6-0b0c-4563-9077-a0e9a7955ae4}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                ramdisk.inf
+
+Instance ID:                STORAGE\Volume\_??_USBSTOR#Disk&Ven_AMI&Prod_Virtual_HDisk1&Rev_1.00#AAAABBBBCCCC3&1#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}      
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                USBSTOR\Disk&Ven_AMI&Prod_Virtual_HDisk3&Rev_1.00\AAAABBBBCCCC3&3
+Device Description:         AMI Virtual HDisk3 USB Device
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                Ramdisk\RamVolume\{d9b257fc-684e-4dcb-ab79-03cfa2f6b750}
+Device Description:         RamDisk
+Class Name:                 Ramdisk
+Class GUID:                 {9d6d66a6-0b0c-4563-9077-a0e9a7955ae4}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                ramdisk.inf
+
+Instance ID:                PCI\VEN_10DE&DEV_22B8&SUBSYS_00000000&REV_00\3&3aa59a3&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ROOT\UMBUS\0000
+Device Description:         UMBus Root Bus Enumerator
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                umbus.inf
+
+Instance ID:                ACPI\PNP0C02\3&71811bb&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                PCI\VEN_10DE&DEV_22B8&SUBSYS_00000000&REV_00\3&262576d4&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:ROOT\ARM64_HAL\0000
+Device Description:         ACPI ARM64-based PC
+Class Name:                 Computer
+Class GUID:                 {4d36e966-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard computers)
+Status:                     Started
+Driver Name:                hal.inf
+
+Instance ID:                STORAGE\Volume\_??_USBSTOR#Disk&Ven_AMI&Prod_Virtual_HDisk0&Rev_1.00#AAAABBBBCCCC3&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}      
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                PCI\VEN_10DE&DEV_22B2&SUBSYS_00000000&REV_00\3&11583659&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0C02\3&38df2779&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\PNP0A08\0
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\2
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\3
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\4
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\6
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\7
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\8
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                PCI\VEN_10DE&DEV_22B2&SUBSYS_00000000&REV_00\3&22b7bebc&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0C02\3&11583659&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                UEFI\RES_{8655e5cf-297b-4213-84d5-b6817203a432}\0
+Device Description:         System Firmware
+Class Name:                 Firmware
+Class GUID:                 {f2e7dd72-6468-4e36-b6f1-6488f42c1b52}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                c_firmware.inf
+
+Instance ID:                USB\VID_046B&PID_FF01\MSFT20serial
+Device Description:         Generic USB Hub
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standard USB HUBs)
+Status:                     Started
+Driver Name:                usbhub3.inf
+
+Instance ID:                ACPI\PRP0001\1
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA2003\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA2004\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                USBSTOR\Disk&Ven_AMI&Prod_Virtual_HDisk2&Rev_1.00\AAAABBBBCCCC3&2
+Device Description:         AMI Virtual HDisk2 USB Device
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                ACPI\NVDA2005\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:0xC0000490
+
+Instance ID:                ACPI\NVDA2006\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI_HAL\PNP0C08\0
+Device Description:         Microsoft ACPI-Compliant System
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                acpi.inf
+
+Instance ID:                HTREE\ROOT\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Started
+
+Instance ID:                ROOT\BasicRender\0000
+Device Description:         Microsoft Basic Render Driver
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                basicrender.inf
+
+Instance ID:                ACPI\NVDA200C\2
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA200C\3
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA200C\4
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:ACPI\NVDA200C\5
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA200C\6
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA200C\7
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA200C\8
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:ACPI\NVDA200C\9
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA200C\a
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVDA200C\b
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\PNP0C33\0
+Device Description:         Microsoft Hardware Error Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                errdev.inf
+
+Instance ID:                PCI\VEN_1912&DEV_0014&SUBSYS_00000000&REV_03\4&28cfb1af&0&0000
+Device Description:         Renesas USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Generic USB xHCI Host Controller
+Status:                     Started
+Driver Name:                usbxhci.inf
+
+Instance ID:ACPI\PNP0A08\10
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\11
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\12
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:ACPI\PNP0A08\14
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\15
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:{4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\16
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\17
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0C02\3&2ff92b1d&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ACPI_HAL\UEFI\0
+Device Description:         Microsoft UEFI-Compliant System
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                uefi.inf
+
+Instance ID:                USB\VID_046B&PID_FF31\AAAABBBBCCCC3
+Device Description:         USB Mass Storage Device
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Compatible USB storage device
+Status:                     Started
+Driver Name:                usbstor.inf
+
+Instance ID:                ACPI\ARMHC502\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHC502\1
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                PCI\VEN_10DE&DEV_22B2&SUBSYS_00000000&REV_00\3&38df2779&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:pci.inf
+
+Instance ID:                ACPI\PNP0C02\3&1b2beaa2&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                SWD\COMPUTER\MFG_To_be_filled_by_O.E.M.&FAM_Default_string&PROD_To_be_filled_by_O.E.M.&SKU_Default_string
+Device Description:         To be filled by O.E.M. To be filled by O.E.M.
+Class Name:Computer
+Class GUID:                 {4d36e966-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                compdev.inf
+
+Instance ID:                STORAGE\Volume\{ceb3dd56-0816-11ee-b4b9-806e6f6e6963}#0000000206600000
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                USBSTOR\Disk&Ven_AMI&Prod_Virtual_HDisk1&Rev_1.00\AAAABBBBCCCC3&1
+Device Description:         AMI Virtual HDisk1 USB Device
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                PCI\VEN_10DE&DEV_22B9&SUBSYS_00000000&REV_00\3&1d3f7a78&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                STORAGE\Volume\_??_USBSTOR#Disk&Ven_ASolid&Prod_USB&Rev_0000#B0000524&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                SCSI\Disk&Ven_NVMe&Prod_SAMSUNG_MZ1L21T9\5&35ba02b7&0&000000
+Device Description:         SAMSUNG MZ1L21T9HCLS-00A07
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                PCI\VEN_10DE&DEV_22B8&SUBSYS_00000000&REV_00\3&ffe0e17&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                USB\VID_05E3&PID_0626\6&4c16eee&0&3
+Device Description:         Generic SuperSpeed USB Hub
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standard USB HUBs)
+Status:                     Started
+Driver Name:                usbhub3.inf
+
+Instance ID:                ACPI\NVDA0508\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHC9FF\1
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHC9FF\3
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                PCI\VEN_8086&DEV_1563&SUBSYS_00000000&REV_01\4&4c93a21&0&0000
+Device Description:         Ethernet Controller
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                PCI\VEN_8086&DEV_1563&SUBSYS_00000000&REV_01\4&4c93a21&0&0100
+Device Description:         Ethernet Controller
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                DISPLAY\ACI22FD\1&8713bca&0&UID0
+Device Description:         Generic Monitor (ASUS VS228)
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Started
+
+Instance ID:                USB\VID_046B&PID_FF20\AAAABBBBCCCC1
+Device Description:         USB Mass Storage Device
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Compatible USB storage device
+Status:                     Started
+Driver Name:                usbstor.inf
+
+Instance ID:                USB\VID_046B&PID_FFB0\1234567890.
+Device Description:         Virtual Ethernet.
+Class Name:                 Ports
+Class GUID:                 {4d36e978-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                usbser.inf
+
+Instance ID:                STORAGE\Volume\{ceb3dd55-0816-11ee-b4b9-806e6f6e6963}#0000000000100000
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                USBSTOR\Disk&Ven_AMI&Prod_Virtual_HDisk0&Rev_1.00\AAAABBBBCCCC3&0
+Device Description:         AMI Virtual HDisk0 USB Device
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                ROOT\NdisVirtualBus\0000
+Device Description:         NDIS Virtual Network Adapter Enumerator
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                ndisvirtualbus.inf
+
+Instance ID:                STORAGE\Volume\{ceb3dd56-0816-11ee-b4b9-806e6f6e6963}#0000000106600000
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                ACPI\ARMH0011\1
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\0
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\4
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\6
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\7
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\8
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\9
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\a
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\b
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\c
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\NVIDIA_-_ARMv8_(64-bit)_Family_8_Model_D4F_Revision___0\e
+Device Description:         ArmV9 Central Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ROOT\mssmbios\0000
+Device Description:         Microsoft System Management BIOS Driver
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                mssmbios.inf
+
+Instance ID:                STORAGE\Volume\{ceb3dd56-0816-11ee-b4b9-806e6f6e6963}#0000000000008000
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                PCI\VEN_10DE&DEV_22B2&SUBSYS_00000000&REV_00\3&50481e5&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:STORAGE\Volume\{ceb3dd56-0816-11ee-b4b9-806e6f6e6963}#0000002000100000
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                ACPI\PNP0C02\3&50481e5&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ROOT\SYSTEM\0000
+Device Description:         Plug and Play Software Device Enumerator
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                swenum.inf
+
+Instance ID:                PCI\VEN_10DE&DEV_22B8&SUBSYS_00000000&REV_00\3&2de59b47&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\NVDA1513\1
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\PNP0C02\3&2c8b7305&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\PNP0C02\3&262576d4&0
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                PCI\VEN_10DE&DEV_22B2&SUBSYS_00000000&REV_00\3&36cb97a3&0&00
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\ARMHC97C\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHC97C\2
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                PCI\VEN_1A03&DEV_1150&SUBSYS_11501A03&REV_06\4&175c262d&0&0000
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:pci.inf
+
+Instance ID:                USB\ROOT_HUB30\5&647369e&0&0
+Device Description:         USB Root Hub (USB 3.0)
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standard USB HUBs)
+Status:                     Started
+Driver Name:                usbhub3.inf
+
+Instance ID:                SCSI\Disk&Ven_NVMe&Prod_SAMSUNG_MZ1LB960\5&23c721ca&0&000000
+Device Description:         SAMSUNG MZ1LB960HAJQ-00007
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                STORAGE\Volume\{ceb3dd56-0816-11ee-b4b9-806e6f6e6963}#0000000006600000
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:Started
+Driver Name:                volume.inf
+
+
+X:\Windows\System32>pnputil/enum-drivers
+Microsoft PnP Utility
+
+No published driver packages were found on the system.
+
+X:\Windows\System32>diskpart
+
+Microsoft DiskPart version 10.0.25398.1
+
+Copyright (C) Microsoft Corporation.
+On computer: MININT-7N0GB9B
+
+DISKPART>list disk
+
+  Disk ###  Status         Size     Free     Dyn  Gpt
+  --------  -------------  -------  -------  ---  ---
+  Disk 0    Online         1788 GB  1024 KB        *
+  Disk 1    Online          894 GB  4096 KB        *
+  Disk 2    Online           14 GB      0 B
+  Disk 3    No Media           0 B      0 B
+  Disk 4    No Media           0 B      0 B
+  Disk 5    No Media           0 B      0 B
+  Disk 6    No Media           0 B      0 B
+
+DISKPART>list volumen
+
+Microsoft DiskPart version 10.0.25398.1
+
+DISK        - Display a list of disks. For example, LIST DISK.
+PARTITION   - Display a list of partitions on the selected disk.
+              For example, LIST PARTITION.
+VOLUME      - Display a list of volumes. For example, LIST VOLUME.
+VDISK       - Displays a list of virtual disks.
+
+DISKPART>list volumen 
+
+  Volume ###  Ltr  Label        Fs     Type        Size     Status     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+  Volume 0     J                       CD-ROM          0 B  No Media
+  Volume 1     K                       CD-ROM          0 B  No Media
+  Volume 2     L                       CD-ROM          0 B  No Media
+  Volume 3     M                       CD-ROM          0 B  No Media
+  Volume 4         efi          FAT32  Partition    512 MB  Healthy    Hidden  
+  Volume 5     C                FAT    Partition   4095 MB  Healthy
+  Volume 6     D                FAT    Partition   4095 MB  Healthy
+  Volume 7                      FAT    Partition    100 MB  Healthy    Hidden  
+  Volume 8     E                RAW    Removable     14 GB  Healthy
+  Volume 9     F                       Removable       0 B  No Media
+  Volume 10    G                       Removable       0 B  No Media
+  Volume 11    H                       Removable       0 B  No Media
+  Volume 12    I                       Removable       0 B  No Media
+
+DISKPART>exit
+
+Leaving DiskPart...
+
+X:\Windows\System32>c:
+
+C:\>dir/w
+ Volume in drive C has no label.
+ Volume Serial Number is 562D-3925
+
+ Directory of C:\
+
+IMGDB.TGZ      B.B00          JUMPSTRT.GZ    USEROPTS.GZ    FEATURES.GZ    K.B00          PROCFS.B00     VMX.V00        VIM.V00        TPM.V00
+SB.V00         S.V00          ENA.V00        BNXTNET.V00    bnxtroce.v00   brcmfcoe.v00   brcmnvme.v00   elxiscsi.v00   ELXNET.V00     I40EN.V00
+I40IWN.V00     IAVMD.V00      IGBN.V00       ISER.V00       IXGBEN.V00     LPFC.V00       LPNIC.V00      LSI_MR3.V00    lsi_msgp.v00   lsi_msgp.v01
+lsi_msgp.v02   mtip32xx.v00   NE1000.V00     NENIC.V00      NFNIC.V00      NHPSA.V00      nmlx4_co.v00   nmlx4_en.v00   nmlx4_rd.v00   nmlx5_co.v00
+nmlx5_rd.v00   NTG3.V00       nvme_pci.v00   nvmerdma.v00   nvmxnet3.v00   nvmxnet3.v01   PVSCSI.V00     QCNIC.V00      QEDENTV.V00    QEDRNTV.V00
+QFLE3.V00      QFLE3F.V00     QFLE3I.V00     QFLGE.V00      RSTE.V00       SFVMK.V00      smartpqi.v00   VMKATA.V00     VMKFCOE.V00    VMKUSB.V00
+vmw_ahci.v00   elx_esx_.v00   BTLDR.V00      esx_dvfi.v00   ESX_UI.V00     ESXUPDT.V00    tpmesxup.v00   weaselin.v00   LOADESX.V00    lsuv2_hp.v00
+lsuv2_in.v00   lsuv2_ls.v00   lsuv2_nv.v00   lsuv2_oe.v00   lsuv2_oe.v01   lsuv2_oe.v02   lsuv2_sm.v00   native_m.v00   qlnative.v00   vmware_e.v00
+VSAN.V00       vsanheal.v00   vsanmgmt.v00   BOOT.CFG       ONETIME.TGZ    STATE.TGZ
+              86 File(s)    120,917,158 bytes
+               0 Dir(s)   4,169,400,320 bytes free
+
+C:\>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : minint-7n0gb9b
+   Primary Dns Suffix  . . . . . . .: 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+C:\>date
+The current date is: Sat 06/10/2023
+Enter the new date: (mm-dd-yy)11-06-23
+
+C:\>time
+The current time is: 21:46:09.07
+Enter the new time:14:42:00:;14:42:00:  0014:42:0000  14:42:00.0014:42:00.00 
+
+C:\><?xml version="1.0"?>
+<channel-switch>
+<name>SAC</name>
+<description>Special Administration Console</description>
+<type>VT-UTF8</type>
+<guid>ceb3dd41-0816-11ee-b4b9-806e6f6e6963</guid>
+<application-type>63d02270-8aa4-11d5-bccf-806d6172696f</application-type>
+</channel-switch>
+Name:                  SAC
+Description:           Special Adminis
+Type:                  VT-UTF8
+Channel GUID:          ceb3dd41-0816-11ee-b4b9-806e6f6e6963
+Application Type GUID: 63d02270-8aa4-11d5-bccf-806d6172696f
+
+Press <esc><tab> for next channel.
+Press <esc><tab>0 to return to the SAC channel.
+Use any other key to view this channel.
+
+            Build Number: 25398                                                                  Product: Windows Preinstallation Environment                       Applied Service Pack: None                                                    Time since last reboot: 0:30:45                                               SAC>d                                                                           SAC>i                                                                           SAC is retrieving IP Addresses...                                               There are no IP Addresses available.SAC>sDate: 06/11/2023  Time (GMT): 05:43:51:0407SAC>cmdThe Command Prompt session was successfully launched.SAC>EVENT:   A new channel has been created.  Use "ch -?" for channel help.Channel: Cmd0001SAC>chChannel List(Use "ch -?" for information on using channels)# Status  Channel Name0 (AV)    SAC1 (AV)    Cmd0001SAC>shutdown
+SAC>
+The SAC will become unavailable soon.  The computer is shutting down.
+
+SAC>

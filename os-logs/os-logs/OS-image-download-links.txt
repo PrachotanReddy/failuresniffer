@@ -1,0 +1,54 @@
+For SystemReady SR/ES
+
+   - WinPE - https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install
+        - Select "Download the Windows ADK" and "Download the Windows PE add-on for the Windows ADK" link to get the tools for generating the ISO image based on the latest Windows kernel.
+        - [Optional] If you need to check other old Windows kernels (like Win10 and Win Server), you will need to select "Other ADK downloads" link.
+        - For details, please check https://developer.arm.com/documentation/102677/0100/Install-Windows-PE
+
+   - VMware ESXi-Arm Fling - https://flings.vmware.com/esxi-arm-edition
+
+    - RHEL - https://developers.redhat.com/products/rhel/download
+        - Require Red Hat account
+
+    - Fedora 
+        - Fedora Server - https://getfedora.org/en/server/download/
+        - Fedora Workstation live - https://getfedora.org/en/workstation/download/
+        - Fedora IoT: https://getfedora.org/en/iot/download/
+        - If formal releases do not work, Fedora Rawhide
+            - Server Rawhide: https://dl.fedoraproject.org/pub/fedora/linux/development/rawhide/Server/aarch64/ 
+            - Workstation Rawhide: https://dl.fedoraproject.org/pub/fedora/linux/development/rawhide/Workstation/aarch64/
+            - IoT Rawhide: https://dl.fedoraproject.org/pub/alt/iot/rawhide/IoT/aarch64/
+
+    - CentOS Stream - https://www.centos.org/download/
+        - If you already tested latest version of Fedora/AlmaLinux, it is recommended to test CentOS Stream 8 instead 9 for covering old linux kernel.  
+
+    - AlmaLinux - https://mirrors.almalinux.org/isos.html
+        - If you already tested latest version of Fedora/AlmaLinux, it is recommended to test AlmaLinux 8.x instead 9 for covering old linux kernel. 
+
+    - SLES - https://www.suse.com/download/sles/
+        - If certifying with SystemReady SR band, we prefer SLES to OpenSUSE.
+
+    - OpenSUSE Leap - https://get.opensuse.org/leap/
+        - If certifying with SystemReady ES band, we prefer OpenSUSE to SLES. 
+        - If OpenSUSE Leap does not work, OpenSUSE Tumbleweed - https://get.opensuse.org/tumbleweed/
+
+    - Ubuntu Server LTS - https://ubuntu.com/download/server/arm
+        - If LTS does npt work, Ubuntu Server interim release - https://ubuntu.com/download/server/arm
+        - If interim release does not work, Ubuntu daily build - https://cdimage.ubuntu.com/daily-live/current/
+       
+    - Debian - https://www.debian.org/releases/  -> Stable -> installation information
+
+    - CBL-Mariner
+        - Source - https://github.com/microsoft/CBL-Mariner
+        - Arm64 ISO in preview - https://packages.microsoft.com/cbl-mariner/2.0/preview/Microsoft/aarch64/
+    
+    - FreeBSD (FreeBSD xx.x-RELEASE) - https://www.freebsd.org/where/
+        - If xx.x-REELEASE not work, FreeBSD xx-x-CURRENT image - https://www.freebsd.org/where/
+
+    - NetBSD (evbarm-aarch64)
+        - Releases - http://wiki.netbsd.org/ports/aarch64/
+
+    - OpenBSD (latest release)
+        - Releases - https://cdn.openbsd.org/pub/OpenBSD/
+        - Instructions - https://www.openbsd.org/arm64.html and https://ftp.openbsd.org/pub/OpenBSD/snapshots/arm64/INSTALL.arm64 
+    

@@ -1,0 +1,77 @@
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: lbk0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether ee:e7:cc:e4:a7:86 brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s0f1
+3: lbk1: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether d2:9c:53:5e:97:92 brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s0f2
+4: lbk2: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether b2:7a:3a:a1:9e:f4 brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s0f3
+5: lbk3: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether c2:ba:34:5c:e1:ce brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s0f4
+6: lbk4: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 42:ce:31:b2:1c:a2 brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s0f5
+7: lbk5: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 82:32:54:ce:7b:84 brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s0f6
+8: lbk6: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 5a:82:42:e5:15:00 brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s0f7
+9: lbk7: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether de:be:29:4c:d5:df brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s1
+10: lbk8: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether e6:cf:61:62:64:1d brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s1f1
+11: lbk9: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 2e:1d:da:a1:3c:53 brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s1f2
+12: lbk10: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 9e:c5:ed:d0:c9:d7 brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s1f3
+13: lbk11: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether aa:2c:b0:30:a4:be brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s1f4
+14: lbk12: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether e6:a0:f3:eb:80:fe brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s1f5
+15: lbk13: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 22:46:ca:a2:ec:a6 brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s1f6
+16: lbk14: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether b2:bc:c1:f6:de:5a brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s1f7
+17: lbk15: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 96:03:85:05:1d:39 brd ff:ff:ff:ff:ff:ff
+    altname enP2p1s2
+18: eth1: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 00:0f:b7:06:55:c6 brd ff:ff:ff:ff:ff:ff
+    altname enP2p2s0
+19: eth2: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 00:0f:b7:06:55:c7 brd ff:ff:ff:ff:ff:ff
+    altname enP2p3s0
+20: eth3: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 00:0f:b7:06:55:c8 brd ff:ff:ff:ff:ff:ff
+    altname enP2p4s0
+21: eth4: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 00:0f:b7:06:55:c9 brd ff:ff:ff:ff:ff:ff
+    altname enP2p5s0
+22: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:0f:b7:06:55:ca brd ff:ff:ff:ff:ff:ff
+    altname enP2p6s0
+    inet 192.168.86.78/24 brd 192.168.86.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fd64:9362:82ae:0:2ea9:dd1e:5410:9584/64 scope global temporary dynamic 
+       valid_lft 1696sec preferred_lft 1696sec
+    inet6 fd64:9362:82ae:0:20f:b7ff:fe06:55ca/64 scope global dynamic mngtmpaddr 
+       valid_lft 1696sec preferred_lft 1696sec
+    inet6 fe80::20f:b7ff:fe06:55ca/64 scope link 
+       valid_lft forever preferred_lft forever

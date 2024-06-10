@@ -1,0 +1,343 @@
+# dmidecode 3.3
+Getting SMBIOS data from sysfs.
+SMBIOS 3.3.0 present.
+Table at 0x9F8D30000.
+
+Handle 0x0000, DMI type 0, 26 bytes
+BIOS Information
+	Vendor: Marvell
+	Version: SDK11.23.02
+	Release Date: 2023-02-21
+	Address: 0xE0000
+	Runtime Size: 128 kB
+	ROM Size: 64 MB
+	Characteristics:
+		PCI is supported
+		BIOS is upgradeable
+		Selectable boot is supported
+		ACPI is supported
+		UEFI is supported
+	BIOS Revision: 1.0
+
+Handle 0x0001, DMI type 1, 27 bytes
+System Information
+	Manufacturer: Marvell
+	Product Name: crb106-pcie
+	Version: r1p1
+	Serial Number: WA-CN106-A1-PCIE-2P100-R1-056
+	UUID: ea04f2b5-0b7a-4ba9-9b46-13ea9f5f1b95
+	Wake-up Type: Power Switch
+	SKU Number: Not specified
+	Family: Octeon 10
+
+Handle 0x0002, DMI type 2, 17 bytes
+Base Board Information
+	Manufacturer: Marvell
+	Product Name: crb106-pcie
+	Version: r1p1
+	Serial Number: WA-CN106-A1-PCIE-2P100-R1-056
+	Asset Tag: Not specified
+	Features:
+		Board is a hosting board
+	Location In Chassis: Not specified
+	Chassis Handle: 0x0003
+	Type: Motherboard
+	Contained Object Handles: 0
+
+Handle 0x0003, DMI type 3, 24 bytes
+Chassis Information
+	Manufacturer: Marvell
+	Type: Pizza Box
+	Lock: Not Present
+	Version: r1p1
+	Serial Number: WA-CN106-A1-PCIE-2P100-R1-056
+	Asset Tag: Not specified
+	Boot-up State: Safe
+	Power Supply State: Safe
+	Thermal State: Safe
+	Security Status: None
+	OEM Information: 0x00000000
+	Height: Unspecified
+	Number Of Power Cords: 1
+	Contained Elements: 0
+	SKU Number: Not Specified
+
+Handle 0x0004, DMI type 11, 5 bytes
+OEM Strings
+	String 1: Marvell
+
+Handle 0x0005, DMI type 12, 5 bytes
+System Configuration Options
+	Option 1: No configuration options
+
+Handle 0x0006, DMI type 23, 13 bytes
+System Reset
+	Status: Enabled
+	Watchdog Timer: Present
+	Boot Option: Operating System
+	Boot Option On Limit: Do Not Reboot
+	Reset Count: Unknown
+	Reset Limit: Unknown
+	Timer Interval: Unknown
+	Timeout: Unknown
+
+Handle 0x0007, DMI type 32, 11 bytes
+System Boot Information
+	Status: No errors detected
+
+Handle 0x0008, DMI type 4, 48 bytes
+Processor Information
+	Socket Designation: DPU
+	Type: Central Processor
+	Family: ARMv8
+	Manufacturer: Marvell
+	ID: 00 00 00 00 01 00 00 00
+	Version: A1
+	Voltage: 0.8 V
+	External Clock: Unknown
+	Max Speed: 2500 MHz
+	Current Speed: 2500 MHz
+	Status: Populated, Enabled
+	Upgrade: None
+	L1 Cache Handle: 0x0009
+	L2 Cache Handle: 0x000B
+	L3 Cache Handle: 0x000C
+	Serial Number:  
+	Asset Tag:  
+	Part Number: MV-CN10624-A1-AAP
+	Core Count: 24
+	Core Enabled: 24
+	Thread Count: 24
+	Characteristics:
+		64-bit capable
+		Multi-Core
+		Hardware Thread
+		Enhanced Virtualization
+		Power/Performance Control
+
+Handle 0x0009, DMI type 7, 27 bytes
+Cache Information
+	Socket Designation: Internal L1D Cache
+	Configuration: Enabled, Not Socketed, Level 1
+	Operational Mode: Write Back
+	Location: Internal
+	Installed Size: 64 kB
+	Maximum Size: 64 kB
+	Supported SRAM Types:
+		Burst
+		Synchronous
+	Installed SRAM Type: Burst Synchronous
+	Speed: Unknown
+	Error Correction Type: Single-bit ECC
+	System Type: Data
+	Associativity: 4-way Set-associative
+
+Handle 0x000A, DMI type 7, 27 bytes
+Cache Information
+	Socket Designation: Internal L1I Cache
+	Configuration: Enabled, Not Socketed, Level 1
+	Operational Mode: Write Back
+	Location: Internal
+	Installed Size: 64 kB
+	Maximum Size: 64 kB
+	Supported SRAM Types:
+		Burst
+		Synchronous
+	Installed SRAM Type: Burst Synchronous
+	Speed: Unknown
+	Error Correction Type: Parity
+	System Type: Instruction
+	Associativity: 4-way Set-associative
+
+Handle 0x000B, DMI type 7, 27 bytes
+Cache Information
+	Socket Designation: Internal L2 Unified Cache
+	Configuration: Enabled, Not Socketed, Level 2
+	Operational Mode: Write Back
+	Location: Internal
+	Installed Size: 1 MB
+	Maximum Size: 1 MB
+	Supported SRAM Types:
+		Burst
+		Synchronous
+	Installed SRAM Type: Burst Synchronous
+	Speed: Unknown
+	Error Correction Type: Single-bit ECC
+	System Type: Unified
+	Associativity: 8-way Set-associative
+
+Handle 0x000C, DMI type 7, 27 bytes
+Cache Information
+	Socket Designation: Last Level Cache
+	Configuration: Enabled, Not Socketed, Level 3
+	Operational Mode: Write Back
+	Location: Internal
+	Installed Size: 33536 kB
+	Maximum Size: 33536 kB
+	Supported SRAM Types:
+		Burst
+		Synchronous
+	Installed SRAM Type: Burst Synchronous
+	Speed: Unknown
+	Error Correction Type: Single-bit ECC
+	System Type: Unified
+	Associativity: 16-way Set-associative
+
+Handle 0x000D, DMI type 17, 92 bytes
+Memory Device
+	Array Handle: 0x0009
+	Error Information Handle: Not Provided
+	Total Width: 80 bits
+	Data Width: 64 bits
+	Size: 8 GB
+	Form Factor: DIMM
+	Set: None
+	Locator: DDR0
+	Bank Locator: Bank0
+	Type: <OUT OF SPEC>
+	Type Detail: Unbuffered (Unregistered)
+	Speed: 4800 MT/s
+	Manufacturer: Unknown Manufacturer
+	Serial Number: Unknown Serial
+	Asset Tag: Unknown Asset
+	Part Number: Unknown Part
+	Rank: 1
+	Configured Memory Speed: 5200 MT/s
+	Minimum Voltage: 1.1 V
+	Maximum Voltage: 1.1 V
+	Configured Voltage: 1.1 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not specified
+	Module Manufacturer ID: Unknown
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 8 GB
+	Cache Size: None
+	Logical Size: 8 GB
+
+Handle 0x000E, DMI type 20, 35 bytes
+Memory Device Mapped Address
+	Starting Address: 0x0000000004000000k
+	Ending Address: 0x0000000203FFFFFFk
+	Range Size: 8 GB
+	Physical Device Handle: 0x000D
+	Memory Array Mapped Address Handle: 0x0000
+	Partition Row Position: Unknown
+	Interleave Position: Unknown
+	Interleaved Data Depth: Unknown
+
+Handle 0x000F, DMI type 17, 92 bytes
+Memory Device
+	Array Handle: 0x0009
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16 GB
+	Form Factor: DIMM
+	Set: None
+	Locator: DDR1
+	Bank Locator: Bank1
+	Type: <OUT OF SPEC>
+	Type Detail: Unbuffered (Unregistered)
+	Speed: 4800 MT/s
+	Manufacturer: Unknown Manufacturer
+	Serial Number: 17006210
+	Asset Tag: Unknown Asset
+	Part Number: M5D0-AGS2PCVP                 
+	Rank: 1
+	Configured Memory Speed: 5200 MT/s
+	Minimum Voltage: 1.1 V
+	Maximum Voltage: 1.1 V
+	Configured Voltage: 1.1 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not specified
+	Module Manufacturer ID: Bank 7, Hex 0xF1
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: 16 GB
+
+Handle 0x0010, DMI type 20, 35 bytes
+Memory Device Mapped Address
+	Starting Address: 0x0000000204000000k
+	Ending Address: 0x0000000603FFFFFFk
+	Range Size: 16 GB
+	Physical Device Handle: 0x000F
+	Memory Array Mapped Address Handle: 0x0000
+	Partition Row Position: Unknown
+	Interleave Position: Unknown
+	Interleaved Data Depth: Unknown
+
+Handle 0x0011, DMI type 17, 92 bytes
+Memory Device
+	Array Handle: 0x0009
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16 GB
+	Form Factor: DIMM
+	Set: None
+	Locator: DDR2
+	Bank Locator: Bank2
+	Type: <OUT OF SPEC>
+	Type Detail: Unbuffered (Unregistered)
+	Speed: 4800 MT/s
+	Manufacturer: Unknown Manufacturer
+	Serial Number: 16006210
+	Asset Tag: Unknown Asset
+	Part Number: M5D0-AGS2PCVP                 
+	Rank: 1
+	Configured Memory Speed: 5200 MT/s
+	Minimum Voltage: 1.1 V
+	Maximum Voltage: 1.1 V
+	Configured Voltage: 1.1 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not specified
+	Module Manufacturer ID: Bank 7, Hex 0xF1
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: 16 GB
+
+Handle 0x0012, DMI type 20, 35 bytes
+Memory Device Mapped Address
+	Starting Address: 0x0000000604000000k
+	Ending Address: 0x0000000A03FFFFFFk
+	Range Size: 16 GB
+	Physical Device Handle: 0x0011
+	Memory Array Mapped Address Handle: 0x0000
+	Partition Row Position: Unknown
+	Interleave Position: Unknown
+	Interleaved Data Depth: Unknown
+
+Handle 0x0013, DMI type 16, 23 bytes
+Physical Memory Array
+	Location: System Board Or Motherboard
+	Use: System Memory
+	Error Correction Type: Single-bit ECC
+	Maximum Capacity: 40 GB
+	Error Information Handle: Not Provided
+	Number Of Devices: 3
+
+Handle 0x0014, DMI type 19, 31 bytes
+Memory Array Mapped Address
+	Starting Address: 0x0000000004000000k
+	Ending Address: 0x0000000A03FFFFFFk
+	Range Size: 40 GB
+	Physical Array Handle: 0x0013
+	Partition Width: 1
+
+Handle 0xFEFF, DMI type 127, 4 bytes
+End Of Table
+

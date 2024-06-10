@@ -1,0 +1,1 @@
+Linux localhost 5.14.21-150400.22-default #1 SMP PREEMPT_DYNAMIC Wed May 11 06:57:18 UTC 2022 (49db222) aarch64 aarch64 aarch64 GNU/Linux

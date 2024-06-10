@@ -1,0 +1,1 @@
+Linux localhost.localdomain 6.2.10-200.fc37.aarch64 #1 SMP PREEMPT_DYNAMIC Thu Apr  6 23:40:48 UTC 2023 aarch64 aarch64 aarch64 GNU/Linux

@@ -1,0 +1,131 @@
+0000:00:01.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0000:00:03.0 System peripheral: Cavium, Inc. Device a062
+0000:00:05.0 System peripheral: Cavium, Inc. THUNDERX GTI (Global System Timers)
+0000:00:08.0 System peripheral: Cavium, Inc. Octeon 10 PTP controller
+0000:00:0a.0 System peripheral: Cavium, Inc. Device a09d
+0000:00:0c.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0000:00:0d.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0000:00:0e.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0000:00:0f.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0000:00:10.0 System peripheral: Cavium, Inc. Device a092
+0000:00:11.0 System peripheral: Cavium, Inc. THUNDERX GPIO Controller
+0000:00:14.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0000:00:1a.0 System peripheral: Cavium, Inc. Device a068
+0000:00:1c.0 System peripheral: Cavium, Inc. Device a067
+0000:00:1d.0 System peripheral: Cavium, Inc. Device a067
+0000:00:1e.0 System peripheral: Cavium, Inc. Device a067
+0000:01:00.0 System peripheral: Cavium, Inc. Device a075
+0000:01:01.3 Serial bus controller: Cavium, Inc. THUNDERX SMI / MDIO Controller
+0000:01:01.7 System peripheral: Cavium, Inc. THUNDERX Parallel Bus
+0000:01:0a.0 System peripheral: Cavium, Inc. Device a094
+0000:01:0a.1 System peripheral: Cavium, Inc. Device a094
+0000:01:0a.2 System peripheral: Cavium, Inc. Device a094
+0000:01:0c.0 System peripheral: Cavium, Inc. Device a073
+0000:01:0f.0 System peripheral: Cavium, Inc. Octeon Tx2 Loopback Interface (LBK)
+0000:01:10.0 Network controller: Cavium, Inc. Octeon 10 RPM (MAC)
+0000:01:10.1 Network controller: Cavium, Inc. Octeon 10 RPM (MAC)
+0000:01:14.0 System peripheral: Cavium, Inc. Device a097
+0000:01:14.1 System peripheral: Cavium, Inc. Device a097
+0000:01:14.2 System peripheral: Cavium, Inc. Device a097
+0000:01:14.3 System peripheral: Cavium, Inc. Device a097
+0000:01:14.4 System peripheral: Cavium, Inc. Device a097
+0000:01:18.0 Serial bus controller: Cavium, Inc. THUNDERX TWSI / I2C Controller
+0000:01:18.1 Serial bus controller: Cavium, Inc. THUNDERX TWSI / I2C Controller
+0000:01:18.2 Serial bus controller: Cavium, Inc. THUNDERX TWSI / I2C Controller
+0000:01:18.4 Serial bus controller: Cavium, Inc. THUNDERX TWSI / I2C Controller
+0000:01:18.5 Serial bus controller: Cavium, Inc. THUNDERX TWSI / I2C Controller
+0000:01:18.6 Serial bus controller: Cavium, Inc. THUNDERX TWSI / I2C Controller
+0000:01:18.7 Serial bus controller: Cavium, Inc. THUNDERX TWSI / I2C Controller
+0000:01:19.0 Serial bus controller: Cavium, Inc. THUNDERX TWSI / I2C Controller
+0000:01:19.1 Serial bus controller: Cavium, Inc. THUNDERX TWSI / I2C Controller
+0000:01:19.2 Serial bus controller: Cavium, Inc. THUNDERX TWSI / I2C Controller
+0000:01:19.3 Serial bus controller: Cavium, Inc. THUNDERX TWSI / I2C Controller
+0000:02:00.0 System peripheral: Cavium, Inc. Device a075
+0000:03:00.0 System peripheral: Cavium, Inc. Device a075
+0000:04:00.0 System peripheral: Cavium, Inc. Device a075
+0000:05:00.0 Processing accelerators: Cavium, Inc. Device a098
+0000:06:00.0 System peripheral: Cavium, Inc. Device a080
+0001:00:0c.0 USB controller: Cavium, Inc. THUNDERX xHCI USB Controller
+0001:00:0d.0 USB controller: Cavium, Inc. THUNDERX xHCI USB Controller
+0002:00:00.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:01.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:02.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:03.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:04.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:05.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:06.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:07.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:08.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:09.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:0a.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:0b.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:0c.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:0d.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:0e.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:0f.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:10.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:11.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:12.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:13.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:14.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:15.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:16.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:17.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:18.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:19.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:1a.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:1b.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:1c.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:1d.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:1e.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:00:1f.0 PCI bridge: Cavium, Inc. THUNDERX PCC Bridge
+0002:01:00.0 Ethernet controller: Cavium, Inc. Octeon Tx2 RVU Admin Function (rev 51)
+0002:01:00.1 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:00.2 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:00.3 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:00.4 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:00.5 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:00.6 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:00.7 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:01.0 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:01.1 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:01.2 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:01.3 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:01.4 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:01.5 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:01.6 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:01.7 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:01:02.0 Ethernet controller: Cavium, Inc. Octeon Tx2 Loopback Interface Virtual Function (LBKVF) (rev 51)
+0002:02:00.0 Ethernet controller: Cavium, Inc. Octeon Tx2 RVU Physical Function (rev 51)
+0002:03:00.0 Ethernet controller: Cavium, Inc. Octeon Tx2 RVU Physical Function (rev 51)
+0002:04:00.0 Ethernet controller: Cavium, Inc. Octeon Tx2 RVU Physical Function (rev 51)
+0002:05:00.0 Ethernet controller: Cavium, Inc. Octeon Tx2 RVU Physical Function (rev 51)
+0002:06:00.0 Ethernet controller: Cavium, Inc. Octeon Tx2 RVU Physical Function (rev 51)
+0002:07:00.0 System peripheral: Cavium, Inc. Device a0f9 (rev 51)
+0002:08:00.0 System peripheral: Cavium, Inc. Device a0f9 (rev 51)
+0002:09:00.0 System peripheral: Cavium, Inc. Device a0f9 (rev 51)
+0002:0a:00.0 System peripheral: Cavium, Inc. Device a0f9 (rev 51)
+0002:0b:00.0 System peripheral: Cavium, Inc. Device a0f9 (rev 51)
+0002:0c:00.0 System peripheral: Cavium, Inc. Device a0f9 (rev 51)
+0002:0d:00.0 System peripheral: Cavium, Inc. Device a0f9 (rev 51)
+0002:0e:00.0 System peripheral: Cavium, Inc. Device a0f9 (rev 51)
+0002:0f:00.0 System peripheral: Cavium, Inc. Device a0f9 (rev 51)
+0002:10:00.0 System peripheral: Cavium, Inc. Device a0f0
+0002:11:00.0 System peripheral: Cavium, Inc. Device a0f0
+0002:12:00.0 System peripheral: Cavium, Inc. Device a0f0
+0002:13:00.0 System peripheral: Cavium, Inc. Device a0f0
+0002:14:00.0 System peripheral: Cavium, Inc. Device a0f0
+0002:15:00.0 System peripheral: Cavium, Inc. Device a0f0
+0002:16:00.0 System peripheral: Cavium, Inc. Device a0f0
+0002:17:00.0 System peripheral: Cavium, Inc. Device a0f0
+0002:18:00.0 System peripheral: Cavium, Inc. Device a0f0
+0002:19:00.0 System peripheral: Cavium, Inc. Device a0fb (rev 51)
+0002:1a:00.0 System peripheral: Cavium, Inc. Device a0fb (rev 51)
+0002:1b:00.0 System peripheral: Cavium, Inc. Device a0fb (rev 51)
+0002:1c:00.0 System peripheral: Cavium, Inc. Device a0fb (rev 51)
+0002:1d:00.0 System peripheral: Cavium, Inc. Device a0f0
+0002:1e:00.0 System peripheral: Cavium, Inc. Device a0f9 (rev 51)
+0002:1f:00.0 Ethernet controller: Cavium, Inc. Octeon Tx2 SDP Physical Function (rev 51)
+0002:20:00.0 Encryption controller: Cavium, Inc. Octeon 10 CPT Cryptographic Accelerator, Physical function (rev 51)
+0005:00:00.0 PCI bridge: Cavium, Inc. THUNDERX PCIERC (PCIe Root Complex)
+0005:01:00.0 Non-Volatile memory controller: Phison Electronics Corporation PS5013 E13 NVMe Controller (rev 01)

@@ -1,0 +1,4603 @@
+verMicrosoft Windows [Version 10.0.25398.1]X:\Windows\System32>pnputil/enum-devices
+Microsoft PnP Utility0;Administrator: X:\windows\system32\cmd.exe - pnputil /enum-devicesInstance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&1ce6193e&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.infInstance ID:                PCI\VEN_144D&DEV_A80A&SUBSYS_A813144D&REV_00\4&32558ea9&0&0020
+Device Description:         Standard NVM Express Controller
+Class Name:                 SCSIAdapter
+Class GUID:                 {4d36e97b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Standard NVM Express Controller
+Status:                     Started
+Driver Name:                stornvme.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&230dc
+c244&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0C02\1
+Device Description:         Motherboard resources
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                USB\VID_0461&PID_4E6E&MI_01\7&28a0d99&0&0001        
+Device Description:         USB Input Device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&2e00a
+a956&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                USB\VID_046B&PID_FF10\7&13bf103e&0&4
+Device Description:         USB Composite Device
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standard USB Host Controller)
+Status:                     Started
+Driver Name:                usb.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11000
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11001
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11100
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11101
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11200
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11201
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11300
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11301
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                USB\VID_0461&PID_4E6E&MI_00\7&28a0d99&0&0000        
+Device Description:         USB Input Device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11400
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11401
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11500
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11501
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\PNP0C0C\0
+Device Description:         ACPI Power Button
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11600
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11601
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                HID\VID_0461&PID_4E6E&MI_01&Col02\8&22ecf219&0&0001 
+Device Description:         HID-compliant consumer control device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                hidserv.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11700
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11701
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11800
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11801
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11900
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11901
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&a2c68
+899&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11a00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11a01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11b00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11b01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11c00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11c01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11d00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11d01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11e00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11e01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11f00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\11f01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                STORAGE\Volume\_??_USBSTOR#Disk&Ven_JetFlash&Prod_Tr
+ranscend_16GB&Rev_1100#20QGIVCQ1QNL3B5J&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} 
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1000
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1001
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ROOT\volmgr\0000
+Device Description:         Volume Manager
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volmgr.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1100
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1101
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1200
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1201
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1300
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1301
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1400
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1401
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1500
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1501
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1600
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1601
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1700
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1701
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1800
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1801
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1900
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1901
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1a00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1a01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1b00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1b01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1c00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1c01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1d00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1d01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E104&SUBSYS_00000000&REV_04\3&10541
+119f&0&20
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1e00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1e01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1f00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1f01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&1ce61
+193e&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                USB\VID_0BDA&PID_8152\00E04C3707FE
+Device Description:         Realtek USB FE Family Controller
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Realtek
+Status:                     Started
+Driver Name:                rtuarm64w10.inf
+
+Instance ID:                USBSTOR\Disk&Ven_Generic&Prod_Flash_Disk&Rev_8.07\2F
+F961BD5&0
+Device Description:         Generic Flash Disk USB Device
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                SCSI\Disk&Ven_NVMe&Prod_SAMSUNG_MZQL21T9\5&3b5f7a86&
+&0&000000
+Device Description:         SAMSUNG MZQL21T9HCJR-00A07
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&230dc
+c244&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ROOT\BasicDisplay\0000
+Device Description:         Microsoft Basic Display Driver
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard display types)
+Status:                     Started
+Driver Name:                basicdisplay.inf
+
+Instance ID:                ACPI\APMC0D0F\4
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                PCI\VEN_1DEF&DEV_E103&SUBSYS_00000000&REV_04\3&2e00a
+a956&0&18
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\100
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\101
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\200
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\201
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\300
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\301
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\400
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\401
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\500
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\501
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\600
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\601
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\700
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\701
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\800
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\801
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\900
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\901
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                STORAGE\Volume\{bd54c5aa-0816-11ee-a8d9-806e6f6e6963
+3}#0000000000100000
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                ACPI\ACPI0010\1
+Device Description:         ACPI Processor Container Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E102&SUBSYS_00000000&REV_04\3&2f9fc
+c9e3&0&10
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\a00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\a01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\ACPI0013\0
+Device Description:         ACPI Devices driver
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                acpidev.inf
+
+Instance ID:                ACPI\ACPI0013\1
+Device Description:         ACPI Devices driver
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                acpidev.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\b00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\b01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\c00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\c01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\d00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\d01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\e00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\e01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\f00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\f01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12000
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12001
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12100
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12101
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12200
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12201
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12300
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12301
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12400
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12401
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&88d48
+80c&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12500
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12501
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12600
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12601
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E104&SUBSYS_00000000&REV_04\3&88d48
+80c&0&20
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12700
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12701
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12800
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12801
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&10541
+119f&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12900
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12901
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\ARMHD500\10
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\11
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\12
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\13
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\14
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\15
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\16
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\17
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\18
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\19
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\1a
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\1b
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\1c
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\1d
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\1e
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\1f
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\20
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\21
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\22
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\23
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\24
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\25
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\26
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\27
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\28
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\29
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\2a
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\2b
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\2c
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\2d
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\2e
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\2f
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\30
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\31
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\32
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\33
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\34
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\35
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\36
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\37
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\38
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\39
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\3a
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\3b
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\3c
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\3d
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\3e
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\3f
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\40
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\41
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\42
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\43
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\44
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\45
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\46
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\47
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\48
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\49
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\4a
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\4b
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\4c
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\4d
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\4e
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\4f
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\50
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\51
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\52
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\53
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\54
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\55
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\56
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\57
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\58
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\59
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\5a
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\5b
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\5c
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\5d
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\5e
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\5f
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\60
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\61
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\62
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\63
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\64
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\65
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\66
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\67
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\68
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\69
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\6a
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\6b
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\6c
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\6d
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\6e
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\6f
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\70
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\71
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\72
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\73
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\74
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\75
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\76
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\77
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\78
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\79
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\7a
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\7b
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\7c
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\7d
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\7e
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\7f
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                USB\VID_0461&PID_4E6E\6&107d5e54&0&8
+Device Description:         USB Composite Device
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standard USB Host Controller)
+Status:                     Started
+Driver Name:                usb.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12a00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12a01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12b00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12b01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ROOT\vdrvroot\0000
+Device Description:         Microsoft Virtual Drive Enumerator
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                vdrvroot.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E103&SUBSYS_00000000&REV_04\3&1ce61
+193e&0&18
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12c00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12c01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E102&SUBSYS_00000000&REV_04\3&1b46f
+f8b1&0&10
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12d00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12d01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1A03&DEV_1150&SUBSYS_11501A03&REV_04\4&734c2
+21f&0&0008
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12e00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12e01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12f00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\12f01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E103&SUBSYS_00000000&REV_04\3&230dc
+c244&0&18
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2000
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2001
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2100
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2101
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2200
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2201
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2300
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2301
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ROOT\spaceport\0000
+Device Description:         Microsoft Storage Spaces Controller
+Class Name:                 SCSIAdapter
+Class GUID:                 {4d36e97b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                spaceport.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2400
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2401
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&35c77
+72e9&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2500
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2501
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                STORAGE\Volume\_??_USBSTOR#Disk&Ven_Generic&Prod_Fla
+ash_Disk&Rev_8.07#2F961BD5&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2600
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2601
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2700
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2701
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2800
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2801
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2900
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2901
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E103&SUBSYS_00000000&REV_04\3&88d48
+80c&0&18
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                USB\VID_046B&PID_FFB0\1234567890
+Device Description:         Virtual Ethernet
+Class Name:                 Ports
+Class GUID:                 {4d36e978-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                usbser.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2a00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2a01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2b00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2b01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2c00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2c01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2d00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2d01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ROOT\KDNIC\0000
+Device Description:         Microsoft Kernel Debug Network Adapter
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                kdnic.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2e00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2e01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2f00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\2f01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\ARMHD620\7
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD620\b
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                USBSTOR\CdRom&Ven_AMI&Prod_Virtual_CDROM0&Rev_1.00\A
+AAAABBBBCCCC1&0
+Device Description:         AMI Virtual CDROM0 USB Device
+Class Name:                 CDROM
+Class GUID:                 {4d36e965-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard CD-ROM drives)
+Status:                     Started
+Driver Name:                cdrom.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E102&SUBSYS_00000000&REV_04\3&88d48
+80c&0&10
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                USB\VID_8564&PID_1000\20QGIVCQ1QNL3B5J
+Device Description:         USB Mass Storage Device
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Compatible USB storage device
+Status:                     Started
+Driver Name:                usbstor.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&10541
+119f&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                USB\VID_0951&PID_1625\00137297175CF941B62F02BB      
+Device Description:         USB Mass Storage Device
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Compatible USB storage device
+Status:                     Started
+Driver Name:                usbstor.inf
+
+Instance ID:                USB\VID_058F&PID_6387\2F961BD5
+Device Description:         USB Mass Storage Device
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Compatible USB storage device
+Status:                     Started
+Driver Name:                usbstor.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&88d48
+80c&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                USBSTOR\Disk&Ven_JetFlash&Prod_Transcend_16GB&Rev_11
+100\20QGIVCQ1QNL3B5J&0
+Device Description:         JetFlash Transcend 16GB USB Device
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                PCI\VEN_8086&DEV_1521&SUBSYS_00A28086&REV_01\4&92ebd
+da8&0&0018
+Device Description:         Ethernet Controller
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                PCI\VEN_8086&DEV_1521&SUBSYS_00A28086&REV_01\4&92ebd
+da8&0&0118
+Device Description:         Ethernet Controller
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13000
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13001
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ROOT\Ramdisk\0000
+Device Description:         Windows RAM Disk Controller
+Class Name:                 Ramdisk
+Class GUID:                 {9d6d66a6-0b0c-4563-9077-a0e9a7955ae4}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                ramdisk.inf
+
+Instance ID:                HID\VID_0461&PID_4E6E&MI_00\8&361d0e57&0&0000       
+Device Description:         HID Keyboard Device
+Class Name:                 Keyboard
+Class GUID:                 {4d36e96b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard keyboards)
+Status:                     Started
+Driver Name:                keyboard.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13100
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13101
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13200
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13201
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13300
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13301
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&35c77
+72e9&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13400
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13401
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13500
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13501
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_144D&DEV_A80A&SUBSYS_A813144D&REV_00\4&12653
+31c5&0&0018
+Device Description:         Standard NVM Express Controller
+Class Name:                 SCSIAdapter
+Class GUID:                 {4d36e97b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Standard NVM Express Controller
+Status:                     Started
+Driver Name:                stornvme.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13600
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13601
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13700
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13701
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13800
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13801
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&ce659
+987&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13900
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13901
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\PNP0A08\PCI2
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\PCI3
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\PCI4
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\PCI5
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\PCI6
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\PCI7
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\PCIA
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\PCIB
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\PCIC
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\PCID
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\PCIE
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0A08\PCIF
+Device Description:         PCI Express Root Complex
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                Ramdisk\RamVolume\{d9b257fc-684e-4dcb-ab79-03cfa2f6b
+b750}
+Device Description:         RamDisk
+Class Name:                 Ramdisk
+Class GUID:                 {9d6d66a6-0b0c-4563-9077-a0e9a7955ae4}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                ramdisk.inf
+
+Instance ID:                ACPI\AMPC0008\2&daba3ff&0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13a00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13a01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ROOT\UMBUS\0000
+Device Description:         UMBus Root Bus Enumerator
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                umbus.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13b00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13b01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13c00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13c01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13d00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13d01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13e00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13e01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13f00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\13f01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ROOT\ARM64_HAL\0000
+Device Description:         ACPI ARM64-based PC
+Class Name:                 Computer
+Class GUID:                 {4d36e966-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard computers)
+Status:                     Started
+Driver Name:                hal.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3000
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3001
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                STORAGE\Volume\_??_USBSTOR#Disk&Ven_AMI&Prod_Virtual
+l_HDisk0&Rev_1.00#AAAABBBBCCCC3&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3100
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3101
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3200
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3201
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3300
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3301
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                USB\VID_1A40&PID_0201\6&107d5e54&0&6
+Device Description:         Generic USB Hub
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standard USB HUBs)
+Status:                     Started
+Driver Name:                usbhub3.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E104&SUBSYS_00000000&REV_04\3&2f9fc
+c9e3&0&20
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3400
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3401
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3500
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3501
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3600
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3601
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3700
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3701
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3800
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3801
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3900
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3901
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3a00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3a01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3b00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3b01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3c00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3c01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3d00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3d01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3e00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3e01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3f00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\3f01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E103&SUBSYS_00000000&REV_04\3&10541
+119f&0&18
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                PCI\VEN_1A03&DEV_2000&SUBSYS_20001A03&REV_41\5&2248d
+d514&0&000008
+Device Description:         Video Controller (VGA Compatible)
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                PCI\VEN_1DEF&DEV_E104&SUBSYS_00000000&REV_04\3&1b46f
+f8b1&0&20
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                USB\VID_046B&PID_FF01\MSFT20serial
+Device Description:         Generic USB Hub
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standard USB HUBs)
+Status:                     Started
+Driver Name:                usbhub3.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E102&SUBSYS_00000000&REV_04\3&2e00a
+a956&0&10
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                USBSTOR\Disk&Ven_Kingston&Prod_DT_101_II&Rev_1.00\00
+0137297175CF941B62F02BB&0
+Device Description:         Kingston DT 101 II USB Device
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                ACPI_HAL\PNP0C08\0
+Device Description:         Microsoft ACPI-Compliant System
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                acpi.inf
+
+Instance ID:                HTREE\ROOT\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Started
+
+Instance ID:                DISPLAY\ACI17D3\1&8713bca&0&UID0
+Device Description:         Generic Monitor (ASUS MM17D)
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Started
+
+Instance ID:                ROOT\BasicRender\0000
+Device Description:         Microsoft Basic Render Driver
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                basicrender.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&151f4
+4fab&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\PNP0C33\0
+Device Description:         Microsoft Hardware Error Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:Started
+Driver Name:                errdev.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&2f9fc
+c9e3&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                SWD\COMPUTER\MFG_Pegatron&FAM_Altra_Max&PROD_DS2102P
+P&SKU_To_be_filled_by_O.E.M
+Device Description:         Pegatron DS2102P
+Class Name:                 Computer
+Class GUID:                 {4d36e966-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                compdev.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&ce659
+987&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI_HAL\UEFI\0
+Device Description:         Microsoft UEFI-Compliant System
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                uefi.inf
+
+Instance ID:                USB\VID_046B&PID_FF31\AAAABBBBCCCC3
+Device Description:         USB Mass Storage Device
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Compatible USB storage device
+Status:                     Started
+Driver Name:                usbstor.inf
+
+Instance ID:                USB\ROOT_HUB30\5&a4dfe76&0&0
+Device Description:         USB Root Hub (USB 3.0)
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standard USB HUBs)
+Status:                     Started
+Driver Name:                usbhub3.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&1b46f
+f8b1&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E102&SUBSYS_00000000&REV_04\3&230dc
+c244&0&10
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&2659f
+f06&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E104&SUBSYS_00000000&REV_04\3&2659f
+f06&0&20
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&151f4
+4fab&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\ARMHD500\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\1
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\2
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\3
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\4
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\5
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\6
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\7
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\8
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\9
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\a
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\b
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\c
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\d
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\e
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMHD500\f
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&2f9fc
+c9e3&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                HID\VID_046B&PID_FF10&MI_00\9&1d3815f3&0&0000       
+Device Description:         HID Keyboard Device
+Class Name:                 Keyboard
+Class GUID:                 {4d36e96b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard keyboards)
+Status:                     Started
+Driver Name:                keyboard.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E103&SUBSYS_00000000&REV_04\3&2659f
+f06&0&18
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                USB\VID_045E&PID_00CB\7&ff74dc8&0&7
+Device Description:         USB Input Device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                UEFI\RES_{f08bca31-542e-4cea-8b48-8e54f9422594}\0   
+Device Description:         System Firmware
+Class Name:                 Firmware
+Class GUID:                 {f2e7dd72-6468-4e36-b6f1-6488f42c1b52}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                c_firmware.inf
+
+Instance ID:                USB\VID_046B&PID_FF20\AAAABBBBCCCC1
+Device Description:         USB Mass Storage Device
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Compatible USB storage device
+Status:                     Started
+Driver Name:                usbstor.inf
+
+Instance ID:                USB\VID_046B&PID_FF10&MI_00\8&394c43ca&0&0000       
+Device Description:         USB Input Device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                USBSTOR\Disk&Ven_AMI&Prod_Virtual_HDisk0&Rev_1.00\AA
+AAABBBBCCCC3&0
+Device Description:         AMI Virtual HDisk0 USB Device
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E102&SUBSYS_00000000&REV_04\3&2659f
+f06&0&10
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&1b46f
+f8b1&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                SCSI\Disk&Ven_NVMe&Prod_SAMSUNG_MZQL21T9\5&35268c02&
+&0&000000
+Device Description:         SAMSUNG MZQL21T9HCJR-00A07
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard disk drives)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\0
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\1
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E104&SUBSYS_00000000&REV_04\3&2e00a
+a956&0&20
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ROOT\NdisVirtualBus\0000
+Device Description:         NDIS Virtual Network Adapter Enumerator
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                ndisvirtualbus.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&2659f
+f06&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E103&SUBSYS_00000000&REV_04\3&151f4
+4fab&0&18
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\ARMH0011\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                ACPI\ARMH0011\1
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Problem
+Problem Code:               28 (0x1C) [CM_PROB_FAILED_INSTALL]
+Problem Status:             0xC0000490
+
+Instance ID:                PCI\VEN_1DEF&DEV_E103&SUBSYS_00000000&REV_04\3&2f9fc
+c9e3&0&18
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                HID\VID_0461&PID_4E6E&MI_01&Col01\8&22ecf219&0&0000 
+Device Description:         HID-compliant system controller
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10000
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10001
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10100
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10101
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10200
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10201
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10300
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10301
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10400
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10401
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E102&SUBSYS_00000000&REV_04\3&10541
+119f&0&10
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10500
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10501
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10600
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10601
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                STORAGE\Volume\_??_USBSTOR#Disk&Ven_Kingston&Prod_DT
+T_101_II&Rev_1.00#00137297175CF941B62F02BB&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8
+8b}
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10700
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10701
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10800
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10801
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10900
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10901
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E103&SUBSYS_00000000&REV_04\3&1b46f
+f8b1&0&18
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10a00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10a01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10b00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10b01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E101&SUBSYS_00000000&REV_04\3&2e00a
+a956&0&08
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10c00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10c01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10d00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10d01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E104&SUBSYS_00000000&REV_04\3&230dc
+c244&0&20
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                ROOT\mssmbios\0000
+Device Description:         Microsoft System Management BIOS Driver
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                mssmbios.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10e00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10e01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10f00
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\Ampere(R)_-_ARMv8_(64-bit)_Family_8_Model_D0C_R
+Revision_301\10f01
+Device Description:         Ampere(R) Altra(R) Max Processor
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          (Standard processor types)
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E100&SUBSYS_00000000&REV_00\3&a2c68
+899&0&00
+Device Description:         PCI standard host CPU bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                HID\VID_046B&PID_FF10&MI_01\9&34fba238&0&0000       
+Device Description:         HID-compliant mouse
+Class Name:                 Mouse
+Class GUID:                 {4d36e96f-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                msmouse.inf
+
+Instance ID:                ROOT\SYSTEM\0000
+Device Description:         Plug and Play Software Device Enumerator
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                swenum.inf
+
+Instance ID:                HID\VID_045E&PID_00CB\8&29d474c5&0&0000
+Device Description:         HID-compliant mouse
+Class Name:                 Mouse
+Class GUID:                 {4d36e96f-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                msmouse.inf
+
+Instance ID:                USB\VID_046B&PID_FF10&MI_01\8&394c43ca&0&0001       
+Device Description:         USB Input Device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                PCI\VEN_1DEF&DEV_E103&SUBSYS_00000000&REV_04\3&a2c68
+899&0&18
+Device Description:         PCI-to-PCI Bridge
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                pci.inf
+
+Instance ID:                STORAGE\Volume\{bd54c5ab-0816-11ee-a8d9-806e6f6e6963
+3}#0000000000100000
+Device Description:         Volume
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                PCI\VEN_1912&DEV_0014&SUBSYS_00000000&REV_03\4&2b3a9
+921c&0&0010
+Device Description:         Renesas USB 3.0 eXtensible Host Controller - 1.0 (Mi
+icrosoft)
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Generic USB xHCI Host Controller
+Status:                     Started
+Driver Name:                usbxhci.inf
