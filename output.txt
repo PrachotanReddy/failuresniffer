@@ -1,0 +1,2 @@
+Instance ID | Device Description | Class Name | Class GUID | Manufacturer Name | Problem Code | Problem Status
+USB\VID_06CB&PID_0081\e434b8867624 | Synaptics WBDI | Biometric | {53d29ef7-377c-4d14-864b-eb3a85769359} | Synaptics Incorporated | Problem | 10 (0x0A) [CM_PROB_FAILED_START] | 0x800710DF | oem4.inf
